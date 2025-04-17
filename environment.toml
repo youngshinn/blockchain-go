@@ -1,8 +1,0 @@
-[mongo]
-# uri = "mongodb+srv://shin1031:pass123#@cluster0.ed4gu.mongodb.net/?" #mongodb+srv://shin1031:pass123%23@cluster0.ed4gu.mongodb.net/? compass 연결
-uri = "mongodb+srv://shin1031:pass123@cluster0.ed4gu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-
-db = "mymongo"
-
-[info]
-version = "2.2" 
